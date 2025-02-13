@@ -1,0 +1,17 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Exercises for GraphQL section of Full Stack Open",
+  "license": "ISC",
+  "author": "Maksim Yin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "graphql": "^16.10.0",
+    "uuid": "^11.0.5"
+  }
+}
